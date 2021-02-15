@@ -16,7 +16,7 @@ $('main').on('keypress', (event) => {
     };
 });
 
-/*
+/*TODO
 $('ul').on('click', 'li', (event) => {
     $(event.target).toggleClass('line-through');
     $(event.target).children('.done').toggleClass('did');
